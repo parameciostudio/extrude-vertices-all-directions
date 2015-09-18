@@ -10,3 +10,5 @@ Open extrudeVerticesAllDirections.py in text editor and press _alt + p_
 2. In the Tool Shelf (_t_) -> MISC you'll find the "Extrude in all directions Panel"
 3. Set the amount for extursion and whether select new vertices or not (if not, original vertices will still selected)
 
+## TODO
+1. Optimize code: Blender holds on when too many vertices selected
